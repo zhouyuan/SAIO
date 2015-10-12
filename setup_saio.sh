@@ -24,7 +24,7 @@ sudo apt-get install -y curl gcc git-core memcached python-configobj /
 	python-coverage python-dev python-nose python-setuptools /
 	python-simplejson python-xattr sqlite3 xfsprogs python-webob 
 	python-eventlet python-greenlet python-pastedeploy python-netifaces /
-	memcached
+	memcached libffi-dev
 
 
 
